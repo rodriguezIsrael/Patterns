@@ -1,8 +1,8 @@
 package Patterns;
 
 /**
- * User: Litovka Serg
- * Date: 09.04.2016
+ * @author Litovka Serg
+ * @since 09.04.2016
  * Time: 23:07
  */
 public class Fabrica {
